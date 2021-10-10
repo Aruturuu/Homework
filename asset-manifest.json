@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Trigonometry/static/css/main.8014525d.chunk.css",
+    "main.js": "/Trigonometry/static/js/main.4d251bb4.chunk.js",
+    "main.js.map": "/Trigonometry/static/js/main.4d251bb4.chunk.js.map",
+    "runtime-main.js": "/Trigonometry/static/js/runtime-main.6fcdd01e.js",
+    "runtime-main.js.map": "/Trigonometry/static/js/runtime-main.6fcdd01e.js.map",
+    "static/css/2.812312c9.chunk.css": "/Trigonometry/static/css/2.812312c9.chunk.css",
+    "static/js/2.15030ba4.chunk.js": "/Trigonometry/static/js/2.15030ba4.chunk.js",
+    "static/js/2.15030ba4.chunk.js.map": "/Trigonometry/static/js/2.15030ba4.chunk.js.map",
+    "index.html": "/Trigonometry/index.html",
+    "static/css/2.812312c9.chunk.css.map": "/Trigonometry/static/css/2.812312c9.chunk.css.map",
+    "static/css/main.8014525d.chunk.css.map": "/Trigonometry/static/css/main.8014525d.chunk.css.map",
+    "static/js/2.15030ba4.chunk.js.LICENSE.txt": "/Trigonometry/static/js/2.15030ba4.chunk.js.LICENSE.txt",
+    "static/media/katex.min.css": "/Trigonometry/static/media/KaTeX_Typewriter-Regular.9f1a86cb.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fcdd01e.js",
+    "static/css/2.812312c9.chunk.css",
+    "static/js/2.15030ba4.chunk.js",
+    "static/css/main.8014525d.chunk.css",
+    "static/js/main.4d251bb4.chunk.js"
+  ]
+}
