@@ -6,6 +6,7 @@ function Main() {
   return (
     <Home>
       <Title>
+        <P>Artur Kasiński</p>
         <p>7 sposobów na...</p>
         <Latex>{"$\\cos x + \\sin x = 0$"}</Latex>
       </Title>
