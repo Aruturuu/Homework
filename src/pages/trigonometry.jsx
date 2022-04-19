@@ -1,12 +1,14 @@
 import Latex from "react-latex-next";
 import "katex/dist/katex.min.css";
 import styled from "styled-components";
+import Nav from "../components/nav.jsx";
 
-function Main() {
+function Trigonometry() {
   return (
     <Home>
+      {Nav("trigonometry")}
       <Title>
-        <P>Artur Kasiński</p>
+        <p>Artur Kasiński</p>
         <p>7 sposobów na...</p>
         <Latex>{"$\\cos x + \\sin x = 0$"}</Latex>
       </Title>
@@ -102,6 +104,7 @@ const Title = styled.div`
 `;
 
 const LatexSegment = styled.div`
+  border: 1px solid white;
   font-weight: 500;
   margin: 10px auto;
   width: 100%;
@@ -116,4 +119,4 @@ const LatexSegment = styled.div`
   font-size: 16px;
 `;
 
-export default Main;
+export default Trigonometry;
