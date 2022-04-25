@@ -6,12 +6,7 @@ import Nav from "../components/nav.jsx";
 function Trigonometry() {
   return (
     <Home>
-      {Nav("trigonometry")}
-      <Title>
-        <p>Artur Kasiński</p>
-        <p>7 sposobów na...</p>
-        <Latex>{"$\\cos x + \\sin x = 0$"}</Latex>
-      </Title>
+      {Nav("trigonometry", "$\\cos x + \\sin x = 0$")}
       <LatexSegment>
         Sposób 1.
         <Latex>{"$\\cos x + \\sin x = 0$"}</Latex>
@@ -94,13 +89,6 @@ const Home = styled.div`
   width: 100%;
   height: 100%;
   color: white;
-`;
-
-const Title = styled.div`
-  text-align: center;
-  margin: 10px auto;
-  font-size: 20px;
-  font-weight: bold;
 `;
 
 const LatexSegment = styled.div`
