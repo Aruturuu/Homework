@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/Trigonometry/static/css/main.8014525d.chunk.css",
-    "main.js": "/Trigonometry/static/js/main.4d251bb4.chunk.js",
-    "main.js.map": "/Trigonometry/static/js/main.4d251bb4.chunk.js.map",
-    "runtime-main.js": "/Trigonometry/static/js/runtime-main.6fcdd01e.js",
-    "runtime-main.js.map": "/Trigonometry/static/js/runtime-main.6fcdd01e.js.map",
-    "static/css/2.812312c9.chunk.css": "/Trigonometry/static/css/2.812312c9.chunk.css",
-    "static/js/2.15030ba4.chunk.js": "/Trigonometry/static/js/2.15030ba4.chunk.js",
-    "static/js/2.15030ba4.chunk.js.map": "/Trigonometry/static/js/2.15030ba4.chunk.js.map",
-    "index.html": "/Trigonometry/index.html",
-    "static/css/2.812312c9.chunk.css.map": "/Trigonometry/static/css/2.812312c9.chunk.css.map",
-    "static/css/main.8014525d.chunk.css.map": "/Trigonometry/static/css/main.8014525d.chunk.css.map",
-    "static/js/2.15030ba4.chunk.js.LICENSE.txt": "/Trigonometry/static/js/2.15030ba4.chunk.js.LICENSE.txt",
-    "static/media/katex.min.css": "/Trigonometry/static/media/KaTeX_Typewriter-Regular.9f1a86cb.woff"
+    "main.css": "/Homework/static/css/main.8014525d.chunk.css",
+    "main.js": "/Homework/static/js/main.1daddbc6.chunk.js",
+    "main.js.map": "/Homework/static/js/main.1daddbc6.chunk.js.map",
+    "runtime-main.js": "/Homework/static/js/runtime-main.0dd26019.js",
+    "runtime-main.js.map": "/Homework/static/js/runtime-main.0dd26019.js.map",
+    "static/css/2.9d953d11.chunk.css": "/Homework/static/css/2.9d953d11.chunk.css",
+    "static/js/2.a41a9542.chunk.js": "/Homework/static/js/2.a41a9542.chunk.js",
+    "static/js/2.a41a9542.chunk.js.map": "/Homework/static/js/2.a41a9542.chunk.js.map",
+    "index.html": "/Homework/index.html",
+    "static/css/2.9d953d11.chunk.css.map": "/Homework/static/css/2.9d953d11.chunk.css.map",
+    "static/css/main.8014525d.chunk.css.map": "/Homework/static/css/main.8014525d.chunk.css.map",
+    "static/js/2.a41a9542.chunk.js.LICENSE.txt": "/Homework/static/js/2.a41a9542.chunk.js.LICENSE.txt",
+    "static/media/Chart.929d663e.png": "/Homework/static/media/Chart.929d663e.png",
+    "static/media/katex.min.css": "/Homework/static/media/KaTeX_Typewriter-Regular.9f1a86cb.woff",
+    "static/media/handChart.236bdb28.png": "/Homework/static/media/handChart.236bdb28.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6fcdd01e.js",
-    "static/css/2.812312c9.chunk.css",
-    "static/js/2.15030ba4.chunk.js",
+    "static/js/runtime-main.0dd26019.js",
+    "static/css/2.9d953d11.chunk.css",
+    "static/js/2.a41a9542.chunk.js",
     "static/css/main.8014525d.chunk.css",
-    "static/js/main.4d251bb4.chunk.js"
+    "static/js/main.1daddbc6.chunk.js"
   ]
 }
